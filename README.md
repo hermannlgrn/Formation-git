@@ -1,5 +1,9 @@
 # Titre du fichier README
+Lien vers la documentation 
+https://hermannlgrn.github.io/Formation-git/
 
+
+<a href=https://hermannlgrn.github.io/Formation-git/>Lien vers la doc</a>
 # Utiliser EMMET
 File > Preferences > Settings
 
