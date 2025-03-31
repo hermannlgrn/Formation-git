@@ -39,26 +39,27 @@ cls
 ```
 
 ## Commande a connaitre pour crée un repo 
-
+Initialisé un projet git
 ```
 git init
 ```
+Définir la branche main
 ```
 git branch -M main
 ```
+Présiser le dépot sur GitHub
 ```
 git git remote add origin (lien du repo)
 ```
+staging
 ```
 git add .
 ```
+
 ```
 git commit -m "nom"
 ```
+
 ```
 git push -u origin main
-```
-Pour actualisé 
-```
-git push
 ```
