@@ -16,7 +16,7 @@ dir
 
 Aller sur un repertoire
 ```
-cd img
+cd
 ```
 
 Remonter un repertoire
@@ -31,5 +31,5 @@ cd\
 
 Vider le terminal
 ```
-cd img
+cls
 ```
