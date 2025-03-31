@@ -33,3 +33,28 @@ Vider le terminal
 ```
 cls
 ```
+
+## Commande a connaitre pour crée un repo 
+
+```
+git init
+```
+```
+git branch -M main
+```
+```
+git git remote add origin (lien du repo)
+```
+```
+git add .
+```
+```
+git commit -m "nom"
+```
+```
+git push -u origin main
+```
+Pour actualisé 
+```
+git push
+```
